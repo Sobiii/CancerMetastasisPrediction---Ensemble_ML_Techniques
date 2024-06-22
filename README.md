@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilises the WiDS dataset and over 100 features to create a stacked ensemble model for predicting the metastasis period of breast cancer (how long after diagnosis cancer metastasises). Due to the extensive number of features, the project involved domain research, extensive exploratory data analysis (EDA), and meticulous preprocessing to handle missing values.
+This project utilises the WiDS dataset consisting of over 100 features to create a stacked ensemble model for predicting the metastasis period of breast cancer (how long after diagnosis cancer metastasises). Due to the extensive number of features, the project involved domain research, extensive exploratory data analysis (EDA), and meticulous preprocessing to handle missing values.
 
 ## Key Features
 
