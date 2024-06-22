@@ -36,5 +36,5 @@ An innovative approach was employed where the model's predictions were used to c
 
 ## Results
 
-The stacked ensemble model demonstrates high accuracy in predicting the metastasis period of breast cancer. The innovative approach of using residual-based features significantly enhances the model's predictive capability. Detailed performance metrics and visualisations are provided in the evaluation notebook.
+The stacked ensemble model demonstrates high accuracy in predicting the metastasis period of breast cancer. Using residual-based features enhances the model's predictive capability accomplishing an RMSE value of 82.07 on an unseen test set.
 
