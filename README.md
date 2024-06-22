@@ -36,5 +36,8 @@ An innovative approach was employed where the model's predictions were used to c
 
 ## Results
 
-The stacked ensemble model demonstrates high accuracy in predicting the metastasis period of breast cancer. Using residual-based features enhances the model's predictive capability accomplishing an RMSE value of 82.07 on an unseen test set.
+The stacked ensemble model shows promising potential in predicting the metastasis period of breast cancer. Incorporating residual-based features enhances the model's predictive capability, achieving an RMSE value of 82.07 on an unseen test set. This means that, on average, the model's predictions differ from the actual metastasis periods by approximately 82.07 months.
 
+While an RMSE of 82.07 months indicates a significant average deviation in individual predictions, it provides a structured framework for understanding the progression of breast cancer metastasis over extended periods. This insight could potentially aid healthcare providers in anticipating the need for intensified monitoring or treatment adjustments earlier than conventional methods might allow.
+
+Looking ahead, future iterations of the project could focus on reducing the RMSE through several avenues. Refining feature selection processes, incorporating more comprehensive patient data, and exploring advanced machine learning techniques such as deep learning architectures could all contribute to improving the model's accuracy. Lowering the RMSE would enhance the model's reliability in predicting metastasis timelines, thereby bolstering its utility in clinical decision-making and ultimately improving patient outcomes in oncology.
